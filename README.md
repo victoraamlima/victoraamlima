@@ -1,3 +1,8 @@
+<p>
+  Meu nome é Victor Meireles, e sou um desenvolvedor Front-end com vasta experiência em projetos utilizando React, HTML, CSS e Javascript. Entre os projetos que desenvolvi, destaco a criação de uma Pokédex responsiva em React, utilizando a API pokeapi.co, e outro projeto que faz uso da API do GitHub para acessar informações do perfil e repositórios. Adicionalmente, atuo como freelancer de Designer Gráfico desde Maio/2020, trabalhando na criação de logos, cartões de visita digital, banners, panfletos, entre outros.
+Sou uma pessoa dedicada, com habilidade para solucionar problemas e sempre busco aprimorar minhas competências.
+</p>
+
 <div>
   <a href="https://github.com/victoraamlima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoraamlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
