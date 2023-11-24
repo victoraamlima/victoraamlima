@@ -7,7 +7,7 @@ Sou uma pessoa dedicada, com habilidade para solucionar problemas e sempre busco
 
 <div>
   <a href="https://github.com/victoraamlima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoraamlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoraamlima&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoraamlima&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
