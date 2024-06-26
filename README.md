@@ -1,5 +1,5 @@
 <p>
-Meu nome é Victor Meireles, e sou um desenvolvedor Front-end com vasta experiência em projetos utilizando React, HTML, CSS e Javascript. Entre os projetos que desenvolvi, destaco a criação de uma Pokédex responsiva em React, utilizando a API pokeapi.co, e outro projeto que faz uso da API do GitHub para acessar informações do perfil e repositórios. Adicionalmente, atuo como freelancer de Designer Gráfico desde Maio/2020, trabalhando na criação de logos, cartões de visita digital, banners, panfletos, entre outros.
+Meu nome é Victor Meireles, e sou um desenvolvedor Full-Stack com vasta experiência em projetos utilizando React, HTML, CSS, Javascript, typescript, Node.js, Bancos de dados e Next.js. Entre os projetos que desenvolvi, destaco a criação de uma Pokédex responsiva em React, utilizando a API pokeapi.co, e outro projeto que é o a API de um PDV (Ponto De Venda) feito em Node.js, Express e PostgreSQL. Adicionalmente, atuo como freelancer de Designer Gráfico desde Maio/2020, trabalhando na criação de logos, cartões de visita digital, banners, panfletos, entre outros.
 Sou uma pessoa dedicada, com habilidade para solucionar problemas e sempre busco aprimorar minhas competências.
 </p>
 
