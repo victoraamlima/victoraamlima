@@ -5,7 +5,7 @@ Sou uma pessoa dedicada, com habilidade para solucionar problemas e sempre busco
 
 <br>
 
-<div>
+<!--<div>
   <a href="https://github.com/victoraamlima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoraamlima&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoraamlima&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -34,5 +34,5 @@ Sou uma pessoa dedicada, com habilidade para solucionar problemas e sempre busco
  
 <br>
  
-<div>
+<div> //-->
   <a href="mailto:victoraamlima@mail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
